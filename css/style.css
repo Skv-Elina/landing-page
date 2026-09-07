@@ -220,7 +220,7 @@ body {
 .container {}
 .main__banner {
 
-    background: url(./img/1_1.png) no-repeat;
+    background: url(../img/1_1.png) no-repeat;
     background-size: cover;
     background-position: center;
     padding: 115px 0px 115px 0px;
@@ -615,7 +615,7 @@ body {
 
 .main__contact {
     padding: 60px 0px;
-    background: url(./img/contact-bg.jpg);
+    background: url(../img/contact-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     
